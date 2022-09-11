@@ -266,8 +266,6 @@ int main(void) {
 
     scanf("%d", &payment);
 
-    printf("%d\n", payment%UNIT01);
-
     printf("%d: %dEA\n", UNIT01, payment / UNIT01);
     printf("%d: %dEA\n", UNIT02, payment%UNIT01 / UNIT02);
     printf("%d: %dEA\n", UNIT03, payment%UNIT02 / UNIT03);
