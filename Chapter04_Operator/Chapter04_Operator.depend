@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662911299 source:/home/ubuntupc/Programming/Learning/C_Learning/C-Practice/Chapter04_Operator/main.c
+	<stdio.h>
+	<stdlib.h>
+
